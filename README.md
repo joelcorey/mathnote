@@ -7,5 +7,15 @@ Mathnote is an event driven non-linear compenent-based note-taking web applicati
 - https://www.mathjax.org/ Displaying math is hard, this library makes it easy
 
 ### User stories
+- Able to hand write out maths and have them converted in to neat graphical representations of what they wrote
+- Use event sourcing for complete edit history and advanced logging
+- Mobile/tablet first design
 - The user will be able to log in and out
 - The user will be able to use a core set of predefined math components such as addition, subtraction, multiplication, and division
+- The user will be able to use Mathjax syntax to write formulas, and save these formulas in to "pipeable" components
+- The user will be able to non-linearly pipe components to other components to manipulate data output
+
+### User stories - stretch goals
+- The user will be able to create, replace, update, and delete components through a Mathnote API
+- The user will be able to pipe data, via component(s), via API
+- Xoomla plugin for interacting with Mathnote
