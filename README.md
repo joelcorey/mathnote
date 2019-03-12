@@ -19,3 +19,4 @@ Mathnote is an event driven non-linear compenent-based note-taking web applicati
 - The user will be able to create, replace, update, and delete components through a Mathnote API
 - The user will be able to pipe data, via component(s), via API
 - Xoomla plugin for interacting with Mathnote
+- A tutorial functionality built in that is similar to Clippy (but actually good)
