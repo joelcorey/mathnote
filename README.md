@@ -7,7 +7,7 @@ Mathnote is an event driven non-linear compenent-based note-taking web applicati
 - https://www.mathjax.org/ Displaying math is hard, this library makes it easy
 
 ### User stories
-- Able to hand write out maths and have them converted in to neat graphical representations of what they wrote
+- The user will be able to hand write out maths and have them converted to text using an Optical Character Recognition (OCR) library
 - Use event sourcing for complete edit history and advanced logging
 - Mobile/tablet first design
 - The user will be able to log in and out
