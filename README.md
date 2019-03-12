@@ -5,6 +5,8 @@ Mathnote is an event driven non-linear compenent-based note-taking web applicati
 - https://reactjs.org/ Component based state logic for handling UI/UX
 - https://d3js.org/ If shapes and drawing are needed
 - https://www.mathjax.org/ Displaying math is hard, this library makes it easy
+- https://github.com/naptha/tesseract.js#tesseractjs OCR for text (in review)
+- https://github.com/falvaro/seshat OCR for math formulas (in review)
 
 ### User stories
 - The user will be able to hand write out maths and have them converted to text using an Optical Character Recognition (OCR) library
