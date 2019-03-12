@@ -1,5 +1,5 @@
 ### Objective
-Mathnote is an event driven non-linear compenent-based note-taking web application with a focus on math.
+Mathnote is an event driven non-linear component-based note-taking web application with a focus on math.
 
 ### Libraries to be used
 - https://reactjs.org/ Component based state logic for handling UI/UX
